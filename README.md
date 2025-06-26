@@ -51,9 +51,6 @@ Data Structures: Queues, maps, and synchronization primitives to manage thread-s
 Backup compression with minimal CPU bottleneck
 
 OUTPUT
-
-Image Image Image
-
-Real-time systems requiring low-latency compression
-
-Software projects that deal with parallelizable I/O operations
+![Image](https://github.com/user-attachments/assets/df2b2e9b-462d-4709-bb5b-9468f8593c27)
+![Image](https://github.com/user-attachments/assets/e4223ef7-8cb0-4b34-9385-14f3afbcb64d)
+![Image](https://github.com/user-attachments/assets/145e827b-85aa-4170-8183-8e323eea94ac)
